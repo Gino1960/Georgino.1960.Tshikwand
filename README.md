@@ -2,6 +2,7 @@
 - 👀 I’m interested in Material modeling and implemetation and Software Engineering
 - 🌱 I’m currently learning C programming and software Engineering I Material modeling and simulation
 - 💞️ I’m looking to collaborate on software Engineering education
+-
 
 
 <!---
